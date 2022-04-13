@@ -1,0 +1,6 @@
+framework module Pods_SnapChatCloneWithFirebase_SnapChatCloneWithFirebaseUITests {
+  umbrella header "Pods-SnapChatCloneWithFirebase-SnapChatCloneWithFirebaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
